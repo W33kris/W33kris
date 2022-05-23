@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @W33kris
-- 👀 I’m interested in blockchain & crypto
-- 🌱 I’m currently learning appsec basics
-- 💞️ I’m looking to collaborate on solving problems at scale
+- 👀 solving problems at scale through blockchain
+- 🌱 dipping my feet into the appsec world
+- 💞️ 
 - 📫 How to reach me - via email
 
 <!---
